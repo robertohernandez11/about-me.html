@@ -1,0 +1,47 @@
+body{
+	background-color: black;
+
+}
+img{
+	border-color: gold;
+	border-style: solid;
+	border-width: 6px
+
+}
+
+h1{
+	text-decoration: underline;
+	font-style: italic;
+	color: blue;
+	font-size: 40px
+}
+
+h2 {
+	color: yellow;
+	font-weight: lighter;
+	font-size: 30px
+}
+
+h3{
+	color: red;
+}
+h4{
+	color: white;
+}
+h6{
+	color: white;
+}
+ul{
+	color: white;
+}
+
+p{
+	color: white;
+	
+}
+
+a{
+	font-weight: bold;
+	font-style: italic;
+	font-size: 25px
+}
